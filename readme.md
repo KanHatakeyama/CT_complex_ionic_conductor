@@ -6,7 +6,7 @@ DOI: ****
 You can run jupyter notebook codes for the demo codes
  
 # Note
-Tested by Linux
+
 
 # Author
 Kan Hatakeyama-Sato and Kenichi Oyaizu
